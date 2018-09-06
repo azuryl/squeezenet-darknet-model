@@ -1,0 +1,1 @@
+# squeezenet-darknet-model
